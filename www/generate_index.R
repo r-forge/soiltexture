@@ -1,5 +1,5 @@
 
-setwd( "D:/Users/julienm/Documents/_WORKS/_PROJECTS/r_packages/soiltexture/www" )
+setwd( "F:/Users/julien/Documents/_r-packages/svn/soiltexture/www" )
 
 library( "markdown" )
 

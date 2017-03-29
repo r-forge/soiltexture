@@ -16,15 +16,22 @@ Page content:
 [Articles related to soil texture triangles or systems](#articles) | 
 [See also (other R projects)](#seealso) 
 
-Last update: 2015/04/17
+Last update: 2017/03/29
+
+
+**<div style="background-color: rgb(255, 255, 204);">!!The package soiltexture has mooved. The repository is now located on [GitHub](http://github.com): [https://github.com/cran/soiltexture](https://github.com/cran/soiltexture)!!</div>**
+
+The text below is not up to date.
+
 
 In short    <a id="inshort"></a>
 --------
 
 *   Author: **[Julien Moeys][julienmoeys]** ([SLU][]/[CKB][]).
 *   Package on CRAN: http://cran.r-project.org/web/packages/soiltexture/index.html 
-*   Project page on R-forge: http://r-forge.r-project.org/projects/soiltexture/ 
-*   Code Repository (R-forge): http://r-forge.r-project.org/scm/?group_id=740 
+*   Code Repository (GitHub): https://github.com/cran/soiltexture 
+*   Project page on R-forge: http://r-forge.r-project.org/projects/soiltexture/ (**not up to date**)
+*   Code Repository (R-forge): http://r-forge.r-project.org/scm/?group_id=740 (**not up to date**)
 *   Comprehensive tutorial (_package vignette_): http://cran.r-project.org/web/packages/soiltexture/vignettes/soiltexture_vignette.pdf 
 *   Frequently Asked Questions: [FAQ](FAQ.html) (_under construction_)
 *   On-line documentation: http://docs.julienmoeys.info/soiltexture/ 
