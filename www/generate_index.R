@@ -1,5 +1,6 @@
 
-setwd( "F:/Users/julien/Documents/_r-packages/svn/soiltexture/www" )
+setwd( file.path( Sys.getenv(x = "rPackagesDir" ), "svn", 
+    "soiltexture", "www" ) )
 
 library( "markdown" )
 

@@ -12,11 +12,11 @@ library( "soiltexture" )
 ```
 
 ```
-## soiltexture 1.3.0 (svn revision: 122:125M). For help type: help(pack='soiltexture')
+## soiltexture 1.5.1 (git revision: 4b25ba2). For help type: help(pack='soiltexture')
 ```
 
 ```r
 TT.plot()
 ```
 
-![plot of chunk test](figure/test-1.png) 
+![plot of chunk test](figure/test-1.png)
