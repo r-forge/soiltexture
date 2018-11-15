@@ -19,7 +19,7 @@ Page content:
 Last update: 2017/03/29
 
 
-**<div style="background-color: rgb(255, 255, 204);">!!The package soiltexture has mooved. The repository is now located on [GitHub](http://github.com): [https://github.com/cran/soiltexture](https://github.com/cran/soiltexture)!!</div>**
+**<div style="background-color: rgb(255, 255, 204);">!!The package soiltexture has mooved. The repository is now located on [GitHub](http://github.com): [https://github.com/julienmoeys/soiltexture](https://github.com/julienmoeys/soiltexture)!!</div>**
 
 The text below is not up to date.
 
